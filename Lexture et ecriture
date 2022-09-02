@@ -1,0 +1,41 @@
+Exercice 1
+231
+462
+
+Exercice 2
+int A
+
+ECRIRE "donner un nombre"
+LIRE nombre
+A<-nombre
+A<-A^2
+ECRIRE A
+
+Exercice 3
+
+Début
+
+int A
+int B
+int C
+int D
+
+ECRIRE "prix HT"
+LIRE prixHT
+A<-prixHT
+
+ECRIE "Nombre d'article"
+LIRE nbrarticle
+B<-nbrarticle
+
+ECRIE "taux de tva"
+Lire tva
+C<-tva
+
+D<-(A+C)*B
+ECRIRE D
+
+Fin
+
+Exercice 3 
+

@@ -1,0 +1,55 @@
+Exercice 1 
+A=3
+B=4
+
+Exercice 2 
+A=2
+B=3
+C=1
+
+Exercice 3
+A=6
+B=1
+
+
+Exercice 4
+A=13
+B=13
+C=13
+
+Exercice 5
+A=2
+B=2
+si on echange les deux derniere ligne , a aura la valeur de 5 et b aussi
+
+Exercice 6
+ A=1
+ B=2
+ C=0
+ 
+ C<-A
+ A<-B
+ B<-C
+ 
+ A=2
+ B=1
+ C=1
+
+Exercice 7
+A=1
+B=2
+C=3
+D=0
+E=0
+
+D<-A
+A<-C
+E<-B
+B<-D
+C<-E
+
+Exercice 8 
+L'algorithme donne à la variable C "423+12" puisque ce sont des characteres et non des entiers
+
+Exercice 9
+L'algorithme donne à la variable C "423 & 12" puisque ce sont des characteres et non des entiers
