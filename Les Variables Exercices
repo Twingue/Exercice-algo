@@ -20,7 +20,7 @@ C=13
 Exercice 5
 A=2
 B=2
-si on echange les deux derniere ligne , a aura la valeur de 5 et b aussi
+a sera ecraser par b dans un cas,dans lautre b sera ecraser par a 
 
 Exercice 6
  A=1
@@ -49,7 +49,7 @@ B<-D
 C<-E
 
 Exercice 8 
-L'algorithme donne à la variable C "423+12" puisque ce sont des characteres et non des entiers
+On ne peut additionner des caracteres
 
 Exercice 9
-L'algorithme donne à la variable C "423 & 12" puisque ce sont des characteres et non des entiers
+L'algorithme donne à la variable C "42312" puisque ce sont des characteres 
